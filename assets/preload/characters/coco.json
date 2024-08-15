@@ -1,0 +1,174 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-226,
+				-22
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Coco Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				226,
+				193
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "Coco Left",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				236
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "Coco Right",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "Coco Down",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				291
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "Coco Up",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-135,
+				41
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "michael SHOOT",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/coconut",
+	"position": [
+		-160,
+		640
+	],
+	"healthicon": "coconut",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		56,
+		32
+	],
+	"camera_position": [
+		-190,
+		-155
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

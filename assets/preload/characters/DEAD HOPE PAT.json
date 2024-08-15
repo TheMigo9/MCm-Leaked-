@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1062,
+				195
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Patrick Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				810,
+				152
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Patrick Idle"
+		},
+		{
+			"offsets": [
+				810,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Patrick Down"
+		},
+		{
+			"offsets": [
+				810,
+				152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Patrick Right"
+		},
+		{
+			"offsets": [
+				873,
+				371
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Patrick Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fatass_bitch",
+	"position": [
+		1084,
+		259
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-1080,
+		-380
+	],
+	"sing_duration": 6,
+	"scale": 2
+}

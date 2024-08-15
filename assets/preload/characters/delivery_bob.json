@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				47
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				51
+			],
+			"anim": "shut",
+			"fps": 34,
+			"name": "bf Shit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				-132
+			],
+			"anim": "shit",
+			"fps": 72,
+			"name": "Shit Shit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/delivery_bob",
+	"position": [
+		-220,
+		440
+	],
+	"healthicon": "delivery",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		205,
+		56
+	],
+	"camera_position": [
+		140,
+		-105
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

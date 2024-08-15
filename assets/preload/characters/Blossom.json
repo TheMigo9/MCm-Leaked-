@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleBlossom"
+		},
+		{
+			"offsets": [
+				34,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftBlossom"
+		},
+		{
+			"offsets": [
+				967,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownBlossom"
+		},
+		{
+			"offsets": [
+				-84,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BlossomUp"
+		},
+		{
+			"offsets": [
+				-120,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BlossomRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blossom",
+	"position": [
+		790,
+		-230
+	],
+	"healthicon": "spongebobcage",
+	"flip_x": false,
+	"healthbar_colors": [
+		250,
+		236,
+		61
+	],
+	"camera_position": [
+		-80,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

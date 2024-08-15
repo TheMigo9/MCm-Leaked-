@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				-49,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Left"
+		},
+		{
+			"offsets": [
+				-40,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Right"
+		},
+		{
+			"offsets": [
+				-20,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down"
+		},
+		{
+			"offsets": [
+				-28,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Up"
+		},
+		{
+			"offsets": [
+				-135,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "michael SHOOT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_harmonica",
+	"position": [
+		-140,
+		390
+	],
+	"healthicon": "befe",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		161,
+		213
+	],
+	"camera_position": [
+		140,
+		-105
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

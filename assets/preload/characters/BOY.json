@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				46
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				58
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				58
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				41
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "michael SHOOT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF",
+	"position": [
+		-130,
+		400
+	],
+	"healthicon": "befe",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		161,
+		213
+	],
+	"camera_position": [
+		140,
+		-105
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

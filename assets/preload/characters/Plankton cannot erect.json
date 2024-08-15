@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Plankton Idle"
+		},
+		{
+			"offsets": [
+				-40,
+				-21
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "BusCum",
+			"indices": [],
+			"name": "Plankton fuckingBus"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Plankton Left"
+		},
+		{
+			"offsets": [
+				-13,
+				-1
+			],
+			"indices": [
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Plankton Right"
+		},
+		{
+			"offsets": [
+				-8,
+				-38
+			],
+			"indices": [
+				2,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Plankton Down"
+		},
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Plankton Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Plankton cannot erect",
+	"position": [
+		-40,
+		-740
+	],
+	"healthicon": "served",
+	"flip_x": false,
+	"healthbar_colors": [
+		19,
+		49,
+		50
+	],
+	"camera_position": [
+		540,
+		920
+	],
+	"sing_duration": 5,
+	"scale": 0.5
+}

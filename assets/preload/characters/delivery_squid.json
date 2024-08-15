@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "lookbob",
+			"indices": [],
+			"name": "lookbobstatic"
+		},
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "lookbf",
+			"indices": [],
+			"name": "lookbfstatic"
+		},
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lookbfstatic"
+		},
+		{
+			"offsets": [
+				-26,
+				46
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "pene",
+			"indices": [],
+			"name": "lookbf"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/delivery_squid",
+	"position": [
+		-380,
+		150
+	],
+	"healthicon": "befe",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-790,
+		-515
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
