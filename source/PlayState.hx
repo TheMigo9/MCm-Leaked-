@@ -1134,10 +1134,14 @@ class PlayState extends MusicBeatState
 		if(ClientPrefs.downScroll) {
 			botplayTxt.y = timeBarBG.y - 78;
 		}
-
+                creditTxt.text = "Port by TheMigo"; creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxTextBorderStyle.OUT.LINE,FlxColor , BLACK):
+		creditTxt.scrollFactor.set()
+	        
+		
 		strumLineNotes.cameras = [camHUD];
 		grpNoteSplashes.cameras = [camHUD];
 		notes.cameras = [camHUD];
+	        creditTxt.text.cameras = [camHUD];
 		healthBar.cameras = [camHUD];
 		healthBarBG.cameras = [camHUD];
 		iconP1.cameras = [camHUD];
